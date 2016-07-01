@@ -1,0 +1,50 @@
+ <?xml version="1.0" encoding="utf-8"?>
+ <movie_collection xmlns:collection="http://movies.com">
+	<movie collection:id="1">
+		<title>Star Wars</title>
+			<description>Whiny kid blows up a space station</description>
+		<showtimes>
+			<showing>13:00</showing>
+			<showing>15:00</showing>
+			<showing>17:00</showing>
+		</showtimes>
+		<startdate></startdate>
+		<enddate></enddate>
+	</movie>
+	
+	<movie collection:id="2">
+		<title>Fight Club</title>
+		<description>Insurance actuary has dissociative fugue, commits a bunch of crime and brings down the credit industry</description>
+		<showtimes>
+			<showing>13:00</showing>
+			<showing>15:00</showing>
+			<showing>17:00</showing>
+		</showtimes>
+		<startdate></startdate>
+		<enddate></enddate>
+	</movie>
+			
+	<movie collection:id="3">
+		<title>Avatar</title>
+			<description>Foreign army invades hippie planet, planet fights back</description>
+		<showtimes>
+			<showing>13:00</showing>
+			<showing>15:00</showing>
+			<showing>17:00</showing>
+		</showtimes>
+		<startdate></startdate>
+		<enddate></enddate>
+	</movie> 
+ 
+ 	<movie collection:id="4">
+		<title>Harry Potter</title>
+			<description>Snape kills dumbledore</description>
+		<showtimes>					
+			<showing>13:00</showing>
+			<showing>15:00</showing>
+			<showing>17:00</showing>
+		</showtimes>
+		<startdate></startdate>
+		<enddate></enddate>	
+	</movie> 
+ </movie_collection>
